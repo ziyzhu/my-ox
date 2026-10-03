@@ -3,5 +3,6 @@
   "name": "AWS",
   "description": "Connect to AWS services and documentation.",
   "endpoint": "https://aws-mcp.us-east-1.api.aws/mcp",
+  "faviconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://aws.amazon.com&size=128",
   "transport": "streamable-http"
 }
